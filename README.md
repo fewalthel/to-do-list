@@ -15,7 +15,7 @@
 ### 1. Клонирование репозитория
 ```sh
 git clone https://github.com/fewalthel/to-do-list.git
-cd REPO
+cd to-do-list
 ```
 
 ### 2. Установка зависимостей
